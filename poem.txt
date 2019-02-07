@@ -2,16 +2,25 @@ the rainbow
 
 these are the colours fo the rainbow
 
+#20424
 red
+#fc0505
 orange
+#fc4205
 yellow
+
 green
+
 blue
+#4286f
 indigo
+
 purple
 
 First edit.
 
 Second edit.
 
-EofEdits.
+EofEdits - EofMaster edit number3.
+
+start Unicorn branch - add double colours plus hexdec colours
