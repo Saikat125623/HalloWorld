@@ -2,16 +2,26 @@ the rainbow
 
 these are the colours fo the rainbow
 
+#20424
 red
+#fc0505
 orange
+#fc4205
 yellow
+#cfc05
 green
+#70fc05
 blue
+#2e05fc
+#4286f
 indigo
+#6305fc
 purple
-
+#705fc
+magenta
+#fc0580
 First edit.
 
 Second edit.
 
-EofEdits.
+EofEdits - EofMaster edit number3.
