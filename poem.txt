@@ -10,6 +10,8 @@ blue
 indigo
 purple
 
-My first edit!
+First edit.
 
-My second edit!
+Second edit.
+
+EofEdits.
