@@ -1,6 +1,6 @@
-the rainbow
+The rainbow poem.
 
-these are the colours fo the rainbow
+These are the colours of the rainbow,
 
 #20424
 red
@@ -20,6 +20,7 @@ purple
 #705fc
 magenta
 #fc0580
+
 First edit.
 
 Second edit.
